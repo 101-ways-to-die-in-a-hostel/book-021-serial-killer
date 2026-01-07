@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A solo traveler who prides herself on reading people becomes the seventh victim of a charismatic fellow backpacker who has been using the hostel trail as his hunting ground.",
     "long": ""
   },
   "death_type": "Serial Killer",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Some people collect passport stamps. He collects something else."
 }
