@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "101ways-serial-killer",
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
